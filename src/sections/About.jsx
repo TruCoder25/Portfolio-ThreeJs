@@ -100,7 +100,7 @@ const About = () => {
 
 
             </p>
-            <Button name="Contact Me" isBeam containerClass="w-full mt-10" />
+            <Button name="Contact Me" isBeam containerClass="w-full mt-10" href="/contact" />
             </div>
         </div>
         </div>
